@@ -1,0 +1,57 @@
+{
+   "micrownet" : [
+      "attempter"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/Attempter&sa=U&ei=BxnoUbzXH4PWswahwICwBw&ved=0CBgQFjAA&usg=AFQjCNEvJRHbJ8dezVluPrr8oOYTh2kZlw",
+      "/url?q=http://www.collinsdictionary.com/dictionary/english/attempter&sa=U&ei=BxnoUbzXH4PWswahwICwBw&ved=0CBwQFjAB&usg=AFQjCNE-jzK8qps7CizDCJmzsk7We6Mymw",
+      "/url?q=http://attempter.wordpress.com/&sa=U&ei=BxnoUbzXH4PWswahwICwBw&ved=0CB8QFjAC&usg=AFQjCNH4WpHw9VsU63EO-U2e5HtmNpHTbw",
+      "/url?q=http://en.wiktionary.org/wiki/attempter&sa=U&ei=BxnoUbzXH4PWswahwICwBw&ved=0CCkQFjAD&usg=AFQjCNGZz6e-rJL99k7-F8W7TOJs0y5ziQ",
+      "/url?q=http://www.merriam-webster.com/medical/attempter&sa=U&ei=BxnoUbzXH4PWswahwICwBw&ved=0CCwQFjAE&usg=AFQjCNEm22EkObQ9Q0eLxxiVtLuwrsxDMg"
+   ],
+   "micro" : [
+      "someone",
+      "causal_agency",
+      "physical_entity",
+      "entity",
+      "unit",
+      "somebody",
+      "animate_thing",
+      "being",
+      "individual",
+      "physical_object",
+      "causal_agent",
+      "trier",
+      "object",
+      "mortal",
+      "attempter",
+      "cause",
+      "essayer",
+      "organism",
+      "living_thing",
+      "person",
+      "whole",
+      "soul"
+   ],
+   "duck" : [
+      "Attempter",
+      "To try to perform, make, or achieve: attempted to read the novel in one sitting; attempted a difficult dive.",
+      "To try to perform, make, or achieve: attempted to read the novel in one sitting; attempted a difficult dive."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "attempter" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

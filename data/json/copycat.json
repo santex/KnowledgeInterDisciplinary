@@ -1,0 +1,86 @@
+{
+   "micrownet" : [
+      "copycat"
+   ],
+   "google" : [
+      "/url?q=http://www.imdb.com/title/tt0112722/&sa=U&ei=7RjoUbbUKpHltQaP5IDoAQ&ved=0CBgQFjAA&usg=AFQjCNG9KoCioPqUzn177yd1p013vSGNjg",
+      "/url?q=https://en.wikipedia.org/wiki/Copycat&sa=U&ei=7RjoUbbUKpHltQaP5IDoAQ&ved=0CCIQFjAB&usg=AFQjCNGeJ3oFqViEl8jVWmrYbcomhIW91w",
+      "/url?q=http://en.wikipedia.org/wiki/Copycat_(film)&sa=U&ei=7RjoUbbUKpHltQaP5IDoAQ&ved=0CCoQFjAC&usg=AFQjCNGOuu2Dk7ljPjBcqN_wNBR31ijx-Q",
+      "/url?q=http://www.copykat.com/&sa=U&ei=7RjoUbbUKpHltQaP5IDoAQ&ved=0CDMQFjAD&usg=AFQjCNFGomjXoU-xZSUiMLEbsyH7_UAUWA",
+      "/url?q=http://www.thefreedictionary.com/copycat&sa=U&ei=7RjoUbbUKpHltQaP5IDoAQ&ved=0CDcQFjAE&usg=AFQjCNGULtoOS_BBhroxkgB7q4vE58gisg"
+   ],
+   "micro" : [
+      "causal_agency",
+      "whole",
+      "individual",
+      "ape",
+      "imitator",
+      "physical_entity",
+      "entity",
+      "living_thing",
+      "person",
+      "organism",
+      "soul",
+      "somebody",
+      "epigon",
+      "causal_agent",
+      "animate_thing",
+      "physical_object",
+      "being",
+      "copycat",
+      "cause",
+      "parrot",
+      "aper",
+      "object",
+      "mortal",
+      "epigone",
+      "emulator",
+      "someone",
+      "unit"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Copycat_(Marvel_Comics)\">Copycat (Marvel Comics)</a>, a comic book character in the Marvel Universe",
+      "Copycat",
+      "\n<a href=\"http://duckduckgo.com/Copycat_(film)\">Copycat (film)</a>, a 1995 thriller starring Sigourney Weaver and Holly Hunter",
+      "\n<a href=\"http://duckduckgo.com/Copycat_suicide\">Copycat suicide</a>, suicide inspired by or replicating another's suicide",
+      "http://www.merriam-webster.com/dictionary/copycat",
+      "copycat definition: one who imitates or adopts the behavior or practices of another.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "copycat" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Copycat' may refer to:\n",
+      "title" : "copycat",
+      "headings" : [
+         "Crime",
+         "Science and technology",
+         "Television and film",
+         "Music",
+         "Fictional characters",
+         "Other uses"
+      ]
+   },
+   "micro-relation" : [
+      "1: Copycat_crimes",
+      "1: Copycat_suicide",
+      "1: Copycat_Singers",
+      "1: Pokémon_Red_and_Blue",
+      "1: Pokémon_Yellow",
+      "1: Cosmic_Encounter"
+   ]
+}

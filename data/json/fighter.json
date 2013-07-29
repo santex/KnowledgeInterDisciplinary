@@ -1,0 +1,112 @@
+{
+   "micrownet" : [
+      "fighter",
+      "fighter_aircraft",
+      "fighter_pilot",
+      "fire_fighter",
+      "forest_fire_fighter",
+      "freedom_fighter",
+      "stealth_fighter",
+      "street_fighter"
+   ],
+   "google" : [
+      "/url?q=http://www.imdb.com/title/tt0964517/&sa=U&ei=LhnoUbXGL83IswbM04CIBQ&ved=0CBgQFjAA&usg=AFQjCNH8ESPXwxFjDROphwJVq-4ollXE-Q",
+      "/url?q=http://en.wikipedia.org/wiki/Fighter_aircraft&sa=U&ei=LhnoUbXGL83IswbM04CIBQ&ved=0CCIQFjAB&usg=AFQjCNGkCX1_kxJOJSQUQp6ldkuATTpfQQ",
+      "/url?q=http://en.wikipedia.org/wiki/Fighter&sa=U&ei=LhnoUbXGL83IswbM04CIBQ&ved=0CCYQFjAC&usg=AFQjCNHk97It3VHGH0jjf9mLEDR0nEuTqA",
+      "/url?q=http://www.thefightermovie.com/&sa=U&ei=LhnoUbXGL83IswbM04CIBQ&ved=0CC8QFjAE&usg=AFQjCNHOmH0ApowChj6oAKNCZA5ILI8B7Q"
+   ],
+   "micro" : [
+      "hell-kite",
+      "somebody",
+      "swordsman",
+      "boxer",
+      "mortal",
+      "gouger",
+      "cause",
+      "victor",
+      "animate_thing",
+      "brawler",
+      "physical_entity",
+      "superior",
+      "matman",
+      "gladiator",
+      "skirmisher",
+      "tough",
+      "soul",
+      "withstander",
+      "entity",
+      "scrapper",
+      "grappler",
+      "wrestler",
+      "gamecock",
+      "causal_agency",
+      "butter",
+      "defender",
+      "person",
+      "causal_agent",
+      "whole",
+      "organism",
+      "unit",
+      "individual",
+      "physical_object",
+      "living_thing",
+      "object",
+      "master",
+      "battler",
+      "hell-rooster",
+      "belligerent",
+      "fighter",
+      "being",
+      "mauler",
+      "combatant",
+      "pugilist",
+      "someone",
+      "street_fighter",
+      "fencer"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/martial_arts\">Martial art</a>ist, someone skilled in codified practices and traditions of combat",
+      "\n<a href=\"http://duckduckgo.com/Warrior\">Warrior</a>, a person skilled in combat",
+      "\n<a href=\"http://duckduckgo.com/Soldier\">Soldier</a>, someone in the army",
+      "Fighter",
+      "http://www.merriam-webster.com/dictionary/fighter",
+      "fighter definition: one that fights.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Fighter_aircraft\">Fighter aircraft</a>, a warplane designed to destroy or damage enemy warplanes in air-to-air combat",
+      "\n<a href=\"http://duckduckgo.com/Fighting_game\">Fighting game</a>, a genre of videogames",
+      "\n<a href=\"http://duckduckgo.com/d/Senshi\">Senshi Meanings</a>"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "fighter" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Fighter' or 'The Fighter' may refer to:\n\n*Warrior, a person skilled in combat *Soldier, someone in the army *Senshi (戦士),\na Japanese \"soldier\", \"warrior\", or \"fighter\". *Martial artist, someone skilled\nin codified practices and traditions of combat *Fighter aircraft, a warplane\ndesigned to destroy or damage enemy warplanes in air-to-air combat *Fighters,\nthe name for Christina Aguilera's fanbase\n\n;Films\n\n*''The Fighter'' (1952 film), a 1952 dramatic film about boxing *''Fighter''\n(2000 film), a 2000 documentary about two holocaust survivors *''Fighter'' (2007\nfilm), an independent Danish film about a Turkish girl studying Kung-fu. *[[The\nFighter]], a 2010 sports drama starring Mark Wahlberg and Christian Bale.\n*''Fighter'' (2012 film), an upcoming Bengali film *[[Muay Thai Fighter]], a\n2007 Thai film\n\n;In gaming\n\n*Fighter (character class), a common archetypal character class in numerous role-\nplaying games **Fighter (Dungeons & Dragons), a class in Dungeons & Dragons\n**Fighter (Dungeon Fighter Online) *Fighting game, a genre of videogames\n\n;Other\n\n*Starfighter, the science-fiction equivalent of a fighter aircraft *\"Fighter\"\n(song), a song by Christina Aguilera *[[Fighter: The True Story of the Battle of\nBritain]], a book by Len Deighton *Hokkaido Nippon-Ham Fighters, a Japanese\nprofessional baseball team *\"The Fighter\" (song), a song by Gym Class Heroes\nthat features Ryan Tedder\n",
+      "title" : "fighter",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Warrior",
+      "1: Soldier",
+      "1: Japanese_language",
+      "1: Martial_art",
+      "1: Fighter_aircraft",
+      "1: Christina_Aguilera",
+      "1: Dungeon_Fighter_Online",
+      "1: Fighting_game",
+      "1: Military_spacecraft_in_fiction",
+      "1: Hokkaido_Nippon-Ham_Fighters"
+   ]
+}

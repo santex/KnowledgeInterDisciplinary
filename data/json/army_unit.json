@@ -1,0 +1,67 @@
+{
+   "micrownet" : [
+      "army_unit"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/army%2Bunit&sa=U&ei=fBroUcySLNDgtQbB7YC4AQ&ved=0CBoQFjAA&usg=AFQjCNGfruhuK1DNFmkwqdYKkBi6yh9iZA",
+      "/url?q=http://en.wikipedia.org/wiki/Military_organization&sa=U&ei=fBroUcySLNDgtQbB7YC4AQ&ved=0CB4QFjAB&usg=AFQjCNFmZ8C0kLA64YJiYQ5QOY08R0AZjg",
+      "/url?q=https://en.wikipedia.org/wiki/Company_(military_unit)&sa=U&ei=fBroUcySLNDgtQbB7YC4AQ&ved=0CCYQFjAC&usg=AFQjCNEhT8l7fMXBE782oIQquF6eXuXCpA",
+      "/url?q=http://www.army-units.com/&sa=U&ei=fBroUcySLNDgtQbB7YC4AQ&ved=0CCkQFjAD&usg=AFQjCNHK7i0FPol4rC7L9vRtkDnxQQ7J7A",
+      "/url?q=http://www.mirecc.va.gov/docs/visn6/8_us_military_unit_size.pdf&sa=U&ei=fBroUcySLNDgtQbB7YC4AQ&ved=0CDYQFjAH&usg=AFQjCNF2ovDQc3dkEqdWkqXrNQN9PoMsyg"
+   ],
+   "micro" : [
+      "infantry",
+      "brigade",
+      "detachment",
+      "military_force",
+      "unit",
+      "entity",
+      "abstraction",
+      "social_unit",
+      "van",
+      "battle_group",
+      "vanguard",
+      "artillery",
+      "artillery_unit",
+      "abstract_entity",
+      "section",
+      "regiment",
+      "army_corps",
+      "platoon",
+      "musketry",
+      "armyunit",
+      "division",
+      "foot",
+      "social_group",
+      "cavalry",
+      "group",
+      "military_unit",
+      "squad",
+      "company",
+      "organisation",
+      "grouping",
+      "troop",
+      "military_group",
+      "force",
+      "corps",
+      "organization",
+      "battalion"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "army_unit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

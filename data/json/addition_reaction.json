@@ -1,0 +1,83 @@
+{
+   "micrownet" : [
+      "addition_reaction"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Addition_reaction&sa=U&ei=URnoUfryBYqOtQasvoHICA&ved=0CBoQFjAA&usg=AFQjCNEC1clMbLd3mJUNL0BHadHd2Saf-w",
+      "/url?q=http://simple.wikipedia.org/wiki/Addition_reaction&sa=U&ei=URnoUfryBYqOtQasvoHICA&ved=0CB4QFjAB&usg=AFQjCNH2WL235pOyhEhmAd0SdAlzxpTQUw",
+      "/url?q=http://en.wiktionary.org/wiki/addition_reaction&sa=U&ei=URnoUfryBYqOtQasvoHICA&ved=0CCEQFjAC&usg=AFQjCNG3TBTc1M1h09m_HSHRz7W6gBFeJw",
+      "/url?q=http://www.credoreference.com/topic/addition_reaction/pdf&sa=U&ei=URnoUfryBYqOtQasvoHICA&ved=0CCQQFjAD&usg=AFQjCNEbE7ezKIJot14IOx-1Dl1L86Z6NQ",
+      "/url?q=http://www.daviddarling.info/encyclopedia/A/addition_reaction.html&sa=U&ei=URnoUfryBYqOtQasvoHICA&ved=0CCcQFjAE&usg=AFQjCNH3dPy4AMlsxCqFyyPx1QfqOaxxQQ"
+   ],
+   "micro" : [
+      "natural_action",
+      "reaction",
+      "process",
+      "action",
+      "physical_entity",
+      "physical_process",
+      "natural_process",
+      "chemical_reaction",
+      "chemical_process",
+      "additionreaction",
+      "chemical_action",
+      "chemical_change",
+      "activity",
+      "entity"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "addition_reaction" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Addition reactions|",
+         "Reaction mechanisms"
+      ],
+      "text" : "\nAn 'addition reaction', in organic chemistry, is in its simplest terms an\norganic reaction where two or more molecules combine to form a larger\none.<ref></ref><ref></ref>\n\nAddition reactions are limited to chemical compounds that have multiple bonds,\nsuch as molecules with carbon-carbon double bonds (alkenes), or with triple\nbonds (alkynes). Molecules containing carbon—hetero double bonds like carbonyl\n(C=O) groups, or imine (C=N) groups, can undergo addition as they too have\ndouble bond character.\n\nAn addition reaction is the opposite of an elimination reaction. For instance\nthe hydration reaction of an alkene and the dehydration of an alcohol are addition-\nelimination pairs.\n\nThere are two main types of polar addition reactions: electrophilic addition and\nnucleophilic addition. Two non-polar addition reaction exists as well called\nfree radical addition and cycloadditions. Addition reactions are also\nencountered in polymerizations and called addition polymerization. Based on the\nnumber of lines and their slopes obtained by plotting alkene ionization\npotentials versus logs of their relative rates of additions, Donna Nelson and\nher students have identified patterns in alkene addition reactions and in their\nmechanisms.\n\n",
+      "title" : "addition reaction",
+      "headings" : [
+         "Addition-elimination reaction",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Alkene",
+      "2: Imine",
+      "2: Elimination_reaction",
+      "1: Organic_chemistry",
+      "1: Organic_reaction",
+      "1: Double_bond",
+      "1: Triple_bond",
+      "1: Alkyne",
+      "1: Hetero_atom",
+      "1: Carbonyl",
+      "1: Hydration_reaction",
+      "1: Alcohol",
+      "1: Electrophilic_addition",
+      "1: Nucleophilic_addition",
+      "1: Free_radical_addition",
+      "1: Cycloaddition",
+      "1: Addition_polymerization",
+      "1: Donna_Nelson",
+      "1: Nucleophilic_acyl_substitution",
+      "1: J._Chem._Educ.",
+      "1: Amine",
+      "1: Schiff_base",
+      "1: Alkylimino-de-oxo-bisubstitution",
+      "1: Nitrile",
+      "1: Carboxylic_acid"
+   ]
+}

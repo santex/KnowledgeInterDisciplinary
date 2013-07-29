@@ -1,1 +1,164 @@
-{"cursor":"18600","size":15,"audio":[],"currentlang":"en","article":"\n\n\n{{Automatic taxobox\n| taxon = Drosophila image = Drosophila repleta lateral.jpg image_caption =\n| [[Drosophila repleta]] authority = FallÃ©n, 1823 type_species = [[Drosophila\n| funebris|Musca funebris]] type_species_authority = Fabricius, 1787 synonyms = Oinopota Kirby &\n| Spence, 1815 subdivision_ranks = Subgenera subdivision =\n*[[Drosophila (subgenus)|Drosophila]] *[[Sophophora]] *[[Chusqueophila]]\n*[[Dorsilopha]] *[[Dudaica]] *[[Phloridosa]] *[[Psilodorha]] *[[Siphlodora]] }}\n\n'Drosophila' is a genus of small flies, belonging to the family Drosophilidae,\nwhose members are often called \"fruit flies\" or (less frequently) pomace flies,\nvinegar flies, or wine flies, a reference to the characteristic of many species\nto linger around overripe or rotting fruit. They should not be confused with the\nTephritidae, a related family, which are also called fruit flies (sometimes\nreferred to as \"true fruit flies\"); tephritids feed primarily on unripe or ripe\nfruit, with many species being regarded as destructive agricultural pests,\nespecially the Mediterranean fruit fly. One species of Drosophila in particular,\n[[Drosophila melanogaster|D. melanogaster]], has been heavily used in research\nin genetics and is a common model organism in developmental biology. The terms\n\"fruit fly\" and \"Drosophila\" are often used synonymously with D. melanogaster in\nmodern biological literature. The entire genus, however, contains more than\n1,500 species and is very diverse in appearance,\nbehavior, and breeding habitat.\n","linknr":382,"url":"drosophila","recorded":1362572725,"links":41,"instances":["biology","biology","animal_behaviour","biology"],"pdf":[],"categories":["Drosophilidae"],"headings":["Etymology","Morphology","Life cycle and ecology","Systematics","''Drosophila'' species genome project","References","External links"],"image":["//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Drosophila_repleta_lateral.jpg/220px-Drosophila_repleta_lateral.jpg","//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png","//upload.wikimedia.org/wikipedia/en/thumb/7/75/Drosophila_residua_head.jpg/220px-Drosophila_residua_head.jpg","//bits.wikimedia.org/static-1.21wmf10/skins/common/images/magnify-clip.png","//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Drosophila_egg.png/122px-Drosophila_egg.png","//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fruit_fly_larva_01.jpg/180px-Fruit_fly_larva_01.jpg","//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fruit_fly_pupae_01.jpg/152px-Fruit_fly_pupae_01.jpg","//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Drosophila_melanogaster_-_side_%28aka%29.jpg/131px-Drosophila_melanogaster_-_side_%28aka%29.jpg","//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Drosophila_setosimentum.jpg/220px-Drosophila_setosimentum.jpg","//bits.wikimedia.org/static-1.21wmf10/skins/common/images/magnify-clip.png","//bits.wikimedia.org/static-1.21wmf10/skins/vector/images/search-ltr.png?303-4","//bits.wikimedia.org/images/wikimedia-button.png","//bits.wikimedia.org/static-1.21wmf10/skins/common/images/poweredby_mediawiki_88x31.png"],"tags":[["family","biology"],["arista","biology"],["lek","animal_behaviour"],["hybrid","biology"]],"members":["arista","hybrid","lek","family"],"related":["Carl_Frederick_Fallén","Johan_Christian_Fabricius","Subgenera","Genus","Fly","Family_(biology)","Drosophilidae","Pomace","Vinegar","Wine","Tephritidae","Fruit","Mediterranean_fruit_fly","Genetics","Model_organism","Developmental_biology","Latin","Greek_language","Dew","Arista_(biology)","House_fly","Deserts","Tropical_rainforest","Cities","Swamp","Alpine_climate","Hibernation","Fungus","Fruit","Bark","Slime_flux","Flower","Mushroom","Parasitism","Predator","Banana","Lek_(animal_behaviour)","Domestication","Spermatozoon","Traumatic_insemination","Ovaries","Yeast","Microorganism","Temperature","Thomas_Hunt_Morgan","Nobel_Prize","Chromosome","Genetics","Drosophila_embryogenesis","Sterols","San_Diego","Asilidae","Hawaii","Vespula","United_States","Staphylinidae","Beetle","Ant","Immigrans-tripunctata_radiation","Drosophila_quadrilineata_species_group","Drosophila_tumiditarsus_species_group","Siphlodora","Hawaiian_Drosophila","Drosophila_polychaeta_species_group","Genus","Paraphyletic","Species","Phylogenetic","List_of_Drosophila_species","Hybrid_(biology)","Honeybee","Mosquito","FlyBase"]}
+{
+   "micrownet" : [
+      "drosophila",
+      "drosophila_melanogaster",
+      "genus_drosophila"
+   ],
+   "micro" : [
+      "physical_entity",
+      "animate_thing",
+      "unit",
+      "invertebrate",
+      "dipteran",
+      "animate_being",
+      "fruit_fly",
+      "brute",
+      "insect",
+      "physical_object",
+      "beast",
+      "arthropod",
+      "whole",
+      "drosophila_melanogaster",
+      "pomace_fly",
+      "two-winged_insects",
+      "creature",
+      "drosophila",
+      "organism",
+      "being",
+      "fauna",
+      "dipteron",
+      "object",
+      "dipterous_insect",
+      "entity",
+      "living_thing",
+      "animal"
+   ],
+   "Lists" : [
+      "List_of_Drosophila_species"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_scale_gene_transfer_between_single-celled_and_multicellular_organisms_reported\" title=\"Large scale gene transfer between single-celled and multicellular organisms reported\">Large scale gene transfer between single-celled and multicellular organisms reported</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "Drosophila is a genus of small flies, belonging to the family Drosophilidae, whose members are often called \"fruit flies\" or (less frequently) pomace flies, vinegar flies, or wine flies, a reference to the characteristic of many species to linger around overripe or rotting fruit.",
+      "https://en.wikipedia.org/wiki/Drosophila",
+      "HASH(0x5049d58)",
+      "Wikipedia",
+      "Drosophila",
+      "\n<a href=\"http://duckduckgo.com/Drosophila_melanogaster\">Drosophila melanogaster</a> - Drosophila melanogaster (Greek for dark-bellied dew lover : δρόσος = dew, φίλος = lover, μέλας = dark-coloured, γαστήρ = belly) is a species of Diptera, or the order of flies, in the fam...",
+      "http://www.merriam-webster.com/dictionary/drosophila",
+      "drosophila definition: any of a genus ('''Drosophila''') of fruit flies used in genetic research.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/70bb8ba0.jpg",
+      "\n<a href=\"http://duckduckgo.com/Drosophila_(subgenus)\">Drosophila (subgenus)</a> - The paraphyletic subgenus Drosophila of the genus Drosophila was first described by Alfred Sturtevant in 1939.",
+      "HASH(0x4f4cc78)",
+      "Drosophila is a genus of small flies, belonging to the family Drosophilidae, whose members are often called \"fruit flies\" or (less frequently) pomace flies, vinegar flies, or wine flies, a reference to the characteristic of many species to linger around overripe or rotting fruit.",
+      "A",
+      "\n<a href=\"http://duckduckgo.com/c/Drosophilidae\">Drosophilidae</a>"
+   ],
+   "micro-www-search" : [
+      "drosophila\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Drosophila_repleta_lateral.jpg/220px-Drosophila_repleta_lateral.jpg\n\n",
+      "Drosophila_melanogaster\n>http\nhttp://animaldiversity.ummz.umich.edu/site/accounts/information/Drosophila_melanogaster.html\nhttp://books.google.com/?id=JjLWYKqehRsC&pg=PA157&lpg=PA157&dq=drosophila+eggs+day+lifetime\nhttp://en.m.wikipedia.org/wiki/Drosophila_melanogaster\nhttp://en.wikipedia.org/w/index.php?title=Drosophila_melanogaster&oldid=543681153\nhttp://www.ensembl.org/Drosophila_melanogaster/Info/Index/\nhttp://www.ncbi.nlm.nih.gov/genome/?term=drosophila%20melanogaster\nhttp://www.thebugsquad.com/fruit-flies/drosophila-melanogaster\n\n>pdf\nhttp://dlib.stanford.edu:6521/text1/dd-ill/insekten6.pdf\nhttp://dlib.stanford.edu:6521/text1/dd-ill/insekten6.pdf\n6521/text1/dd-ill/insekten6.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Drosophila_melanogaster_-_side_%28aka%29.jpg/220px-Drosophila_melanogaster_-_side_%28aka%29.jpg\n\n",
+      "Drosophila\n>http\nhttp://cisr.ucr.edu/spotted_wing_drosophila_cherry_vinegar_fly.html\nhttp://en.m.wikipedia.org/wiki/Drosophila\nhttp://en.wikipedia.org/w/index.php?title=Drosophila&oldid=544799583\nhttp://rana.lbl.gov/drosophila/\nhttp://rana.lbl.gov/drosophila/index.html\nhttp://www.thebugsquad.com/fruit-flies/drosophila-melanogaster\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Drosophila_repleta_lateral.jpg/220px-Drosophila_repleta_lateral.jpg\n"
+   ],
+   "created" : 1373460451,
+   "micro-www" : {
+      "drosophila" : [
+         "drosophila",
+         "Drosophila_melanogaster",
+         "Drosophila",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [
+         "Drosophilidae"
+      ],
+      "text" : "\n\n\n{{Automatic taxobox\n| taxon = Drosophila image = Drosophila repleta lateral.jpg image_caption =\n| [[Drosophila repleta]] authority = Fallén, 1823 type_species = [[Drosophila\n| funebris|Musca funebris]]<!-- Yes, this is correct. The original name is used.--\n| > type_species_authority = Fabricius, 1787 synonyms = Oinopota <small>Kirby &\n| Spence, 1815</small> subdivision_ranks = Subgenera subdivision =\n*[[Drosophila (subgenus)|Drosophila]] *[[Sophophora]] *[[Chusqueophila]]\n*[[Dorsilopha]] *[[Dudaica]] *[[Phloridosa]] *[[Psilodorha]] *[[Siphlodora]] }}\n\n'Drosophila' is a genus of small flies, belonging to the family Drosophilidae,\nwhose members are often called \"fruit flies\" or (less frequently) pomace flies,\nvinegar flies, or wine flies, a reference to the characteristic of many species\nto linger around overripe or rotting fruit. They should not be confused with the\nTephritidae, a related family, which are also called fruit flies (sometimes\nreferred to as \"true fruit flies\"); tephritids feed primarily on unripe or ripe\nfruit, with many species being regarded as destructive agricultural pests,\nespecially the Mediterranean fruit fly. One species of Drosophila in particular,\n[[Drosophila melanogaster|D. melanogaster]], has been heavily used in research\nin genetics and is a common model organism in developmental biology. The terms\n\"fruit fly\" and \"Drosophila\" are often used synonymously with D. melanogaster in\nmodern biological literature. The entire genus, however, contains more than\n1,500 species<ref name=taxodros></ref> and is very diverse in appearance,\nbehavior, and breeding habitat.\n",
+      "title" : "drosophila",
+      "headings" : [
+         "Etymology",
+         "Morphology",
+         "Life cycle and ecology",
+         "Systematics",
+         "''Drosophila'' species genome project",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Genus",
+      "2: Fruit",
+      "2: Genetics",
+      "1: Carl_Frederick_Fallén",
+      "1: Johan_Christian_Fabricius",
+      "1: Subgenera",
+      "1: Fly",
+      "1: Drosophilidae",
+      "1: Pomace",
+      "1: Vinegar",
+      "1: Wine",
+      "1: Tephritidae",
+      "1: Mediterranean_fruit_fly",
+      "1: Model_organism",
+      "1: Developmental_biology",
+      "1: Latin",
+      "1: Greek_language",
+      "1: Dew",
+      "1: House_fly",
+      "1: Deserts",
+      "1: Tropical_rainforest",
+      "1: Cities",
+      "1: Swamp",
+      "1: Alpine_climate",
+      "1: Hibernation",
+      "1: Fungus",
+      "1: Bark",
+      "1: Slime_flux",
+      "1: Flower",
+      "1: Mushroom",
+      "1: Parasitism",
+      "1: Predator",
+      "1: Banana",
+      "1: Domestication",
+      "1: Spermatozoon",
+      "1: Traumatic_insemination",
+      "1: Ovaries",
+      "1: Yeast",
+      "1: Microorganism",
+      "1: Temperature",
+      "1: Thomas_Hunt_Morgan",
+      "1: Nobel_Prize",
+      "1: Chromosome",
+      "1: Drosophila_embryogenesis",
+      "1: Sterols",
+      "1: San_Diego",
+      "1: Asilidae",
+      "1: Hawaii",
+      "1: Vespula",
+      "1: United_States",
+      "1: Staphylinidae",
+      "1: Beetle",
+      "1: Ant",
+      "1: Immigrans-tripunctata_radiation",
+      "1: Drosophila_quadrilineata_species_group",
+      "1: Drosophila_tumiditarsus_species_group",
+      "1: Siphlodora",
+      "1: Hawaiian_Drosophila",
+      "1: Drosophila_polychaeta_species_group",
+      "1: Paraphyletic",
+      "1: Species",
+      "1: Phylogenetic",
+      "1: List_of_Drosophila_species",
+      "1: Honeybee",
+      "1: Mosquito",
+      "1: FlyBase"
+   ]
+}

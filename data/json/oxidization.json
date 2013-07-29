@@ -1,0 +1,70 @@
+{
+   "micrownet" : [
+      "oxidization"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Oxidization&sa=U&ei=XxnoUe2dNszOsgaK5IDwAQ&ved=0CBoQFjAA&usg=AFQjCNEBK52toTIQDgTzth-yeeV9zvutdg",
+      "/url?q=https://en.wikipedia.org/wiki/Redox&sa=U&ei=XxnoUe2dNszOsgaK5IDwAQ&ved=0CB4QFjAB&usg=AFQjCNE8XcgOOo4DCKo998IX7xgo_CMBlQ",
+      "/url?q=http://www.thefreedictionary.com/oxidization&sa=U&ei=XxnoUe2dNszOsgaK5IDwAQ&ved=0CCEQFjAC&usg=AFQjCNFGq27K65me3fIRkqijKpL5OhsH_Q",
+      "/url?q=http://www.thefreedictionary.com/oxidize&sa=U&ei=XxnoUe2dNszOsgaK5IDwAQ&ved=0CCUQFjAD&usg=AFQjCNGiZSJ380uDkrxhZjMyuvbI4GVs0g",
+      "/url?q=https://www.vocabulary.com/dictionary/oxidization&sa=U&ei=XxnoUe2dNszOsgaK5IDwAQ&ved=0CCkQFjAE&usg=AFQjCNHA9loLu4f-5aY3Dy3ou2J9CIXzOA"
+   ],
+   "micro" : [
+      "oxidization",
+      "activity",
+      "nitrification",
+      "chemical_change",
+      "physical_entity",
+      "oxidisation",
+      "natural_action",
+      "burning",
+      "chemical_reaction",
+      "oxidation",
+      "rust",
+      "chemical_action",
+      "physical_process",
+      "entity",
+      "process",
+      "calcination",
+      "natural_process",
+      "rusting",
+      "chemical_process",
+      "reaction",
+      "action",
+      "combustion"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Redox\">Oxidation</a>, a chemical reaction in which electrons are lost",
+      "Oxidization",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=oxidization",
+      "\n<a href=\"http://duckduckgo.com/Rust\">Rust</a> - Rust is a general term for describing iron oxides.",
+      "To combine with oxygen; make into an oxide.",
+      "TheFreeDictionary"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "oxidization" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Oxidization' may refer to:\n\n* Oxidation, a chemical reaction in which electrons are lost\n* Beta oxidation, the process by which fatty acids are broken down in\n  mitochondria and/or peroxisomes\n* Rust\n\n\n<!-- Long comment to avoid being listed on short pages -->\n",
+      "title" : "oxidization",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Redox",
+      "1: Beta_oxidation",
+      "1: Rust"
+   ]
+}

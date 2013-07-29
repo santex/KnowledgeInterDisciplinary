@@ -1,1 +1,75 @@
-{"cursor":"4031","size":15,"audio":[],"currentlang":"en","article":" / DNA. Rendered from PDB\n [http://www.rcsb.org/pdb/explore/explore.do?structureId=1DCT 1DCT].]] -Group]]\n ]] A 'methyltransferase' also known as a 'methylase' is a type of transferase\n enzyme that transfers a methyl group from a donor to an acceptor.\n\nMethylation often occurs on nucleic bases in DNA or amino acids in protein\nstructures. Methytransferases use a reactive methyl group bound to sulfur in S-\nadenosyl methionine (SAM) as the methyl donor.\n","linknr":245,"url":"methyltransferase","recorded":1362897799,"links":23,"instances":[],"pdf":[],"categories":["EC 2.1.1"],"headings":["Function","Clinical significance","Examples","References","External links"],"image":["//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HaeIII-methyltransferase-dna-pdb-1DCT.png/220px-HaeIII-methyltransferase-dna-pdb-1DCT.png","//bits.wikimedia.org/static-1.21wmf10/skins/common/images/magnify-clip.png","//upload.wikimedia.org/wikipedia/commons/6/6b/Methyl.png","//bits.wikimedia.org/static-1.21wmf10/skins/common/images/magnify-clip.png","//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Methylation_sites2.jpg/220px-Methylation_sites2.jpg","//bits.wikimedia.org/static-1.21wmf10/skins/common/images/magnify-clip.png","//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PBB_GE_PNPLA6_203718_at_tn.png/60px-PBB_GE_PNPLA6_203718_at_tn.png","//bits.wikimedia.org/static-1.21wmf10/skins/vector/images/search-ltr.png?303-4","//bits.wikimedia.org/images/wikimedia-button.png","//bits.wikimedia.org/static-1.21wmf10/skins/common/images/poweredby_mediawiki_88x31.png"],"tags":[],"members":[],"related":["Transferase","Enzyme","Methyl","S-adenosyl_methionine","DNA_methylation","Epigenetic","DNA_methylation","Tumor_suppressor_gene","Tumorigenesis","Metastasis","Restriction_modification_system","Amino_acids","Linezolid","Plasmid","DNA_methyltransferase","Histone_methyltransferase","5-Methyltetrahydrofolate-homocysteine_methyltransferase","O-methyltransferase"]}
+{
+   "micrownet" : [],
+   "micro" : [],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_South_Wales_set_to_adopt_harsher_anti-cannabis_laws\" title=\"New South Wales set to adopt harsher anti-cannabis laws\">New South Wales set to adopt harsher anti-cannabis laws</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      " A methyltransferase also known as a methylase  is a type of transferase enzyme that transfers a methyl group from a donor to an acceptor.",
+      "https://en.wikipedia.org/wiki/Methyltransferase",
+      "\n<a href=\"http://duckduckgo.com/c/EC_2.1.1\">EC 2.1.1</a>",
+      "HASH(0x5d128e8)",
+      "Wikipedia",
+      "Methyltransferase",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=methyltransferase",
+      "any of a group of enzymes that catalyze the transfer of a methyl group from one compound to another.",
+      "TheFreeDictionary",
+      "https://i.duckduckgo.com/i/147d9d87.png",
+      "HASH(0x5c0f078)",
+      " A methyltransferase also known as a methylase  is a type of transferase enzyme that transfers a methyl group from a donor to an acceptor.",
+      "A"
+   ],
+   "micro-www-search" : [
+      "methyltransferases\n>http\nhttp://en.m.wikipedia.org/wiki/Methyltransferase\nhttp://en.wikipedia.org/w/index.php?title=Methyltransferase&oldid=540945464\nhttp://gcat.davidson.edu/conversions_04/dna_methyltransferase/index.html\nhttp://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&term=Methyltransferases\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HaeIII-methyltransferase-dna-pdb-1DCT.png/220px-HaeIII-methyltransferase-dna-pdb-1DCT.png\n\n",
+      "methyltransferase\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HaeIII-methyltransferase-dna-pdb-1DCT.png/220px-HaeIII-methyltransferase-dna-pdb-1DCT.png\n"
+   ],
+   "created" : 1373457009,
+   "micro-www" : {
+      "methyltransferase" : [
+         "methyltransferases",
+         "methyltransferase",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [
+         "EC 2.1.1"
+      ],
+      "text" : " / DNA. Rendered from PDB\n [http://www.rcsb.org/pdb/explore/explore.do?structureId=1DCT 1DCT].]] -Group]]\n ]] A 'methyltransferase' also known as a 'methylase' is a type of transferase\n enzyme that transfers a methyl group from a donor to an acceptor.\n\nMethylation often occurs on nucleic bases in DNA or amino acids in protein\nstructures. Methytransferases use a reactive methyl group bound to sulfur in S-\nadenosyl methionine (SAM) as the methyl donor.\n",
+      "title" : "methyltransferase",
+      "headings" : [
+         "Function",
+         "Clinical significance",
+         "Examples",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: DNA_methylation",
+      "1: Transferase",
+      "1: Enzyme",
+      "1: Methyl",
+      "1: S-adenosyl_methionine",
+      "1: Epigenetic",
+      "1: Tumor_suppressor_gene",
+      "1: Tumorigenesis",
+      "1: Metastasis",
+      "1: Restriction_modification_system",
+      "1: Amino_acids",
+      "1: Linezolid",
+      "1: Plasmid",
+      "1: DNA_methyltransferase",
+      "1: Histone_methyltransferase",
+      "1: 5-Methyltetrahydrofolate-homocysteine_methyltransferase",
+      "1: O-methyltransferase"
+   ]
+}

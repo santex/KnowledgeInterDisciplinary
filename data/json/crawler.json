@@ -1,0 +1,94 @@
+{
+   "micrownet" : [
+      "crawler",
+      "kerb_crawler"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Web_crawler&sa=U&ei=LBnoUfiYLYiPtQaUz4GwDA&ved=0CBgQFjAA&usg=AFQjCNHpa4KCYyOnk-NFyLWbCfPNEFWiDA",
+      "/url?q=http://www.crawler.com/&sa=U&ei=LBnoUfiYLYiPtQaUz4GwDA&ved=0CCEQFjAB&usg=AFQjCNFEtjvpONCjFeWxaKfeEqa4J5JuaQ",
+      "/url?q=http://searchsoa.techtarget.com/definition/crawler&sa=U&ei=LBnoUfiYLYiPtQaUz4GwDA&ved=0CCoQFjAC&usg=AFQjCNFcf3p8TChr6II7dOfrzebwDGfacA",
+      "/url?q=http://monstercrawler.com/&sa=U&ei=LBnoUfiYLYiPtQaUz4GwDA&ved=0CC0QFjAD&usg=AFQjCNHavPeb6dkg_2fFfBUhq_o61rO1kQ",
+      "/images?hl=en&q=crawler&gbv=1&num=5&gl=&sa=X&oi=image_result_group&ei=LBnoUfiYLYiPtQaUz4GwDA&ved=0CDEQsAQ",
+      "/url?q=http://www.newzcrawler.com/&sa=U&ei=LBnoUfiYLYiPtQaUz4GwDA&ved=0CD0QFjAJ&usg=AFQjCNGFfj78pM8pxKQ8GD87FmFpy5FXSw"
+   ],
+   "micro" : [
+      "whole",
+      "truckler",
+      "organism",
+      "bootlicker",
+      "sycophant",
+      "entity",
+      "physical_entity",
+      "groveller",
+      "someone",
+      "flatterer",
+      "being",
+      "individual",
+      "adulator",
+      "causal_agent",
+      "toady",
+      "groveler",
+      "living_thing",
+      "goody-goody",
+      "mortal",
+      "crawler",
+      "soul",
+      "apple_polisher",
+      "somebody",
+      "person",
+      "animate_thing",
+      "object",
+      "follower",
+      "cause",
+      "causal_agency",
+      "physical_object",
+      "unit",
+      "lackey",
+      "ass-kisser",
+      "fawner"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Crawler-transporter\">Crawler-transporter</a>, a large tracked vehicle used by <a href=\"http://duckduckgo.com/?q=NASA\">NASA</a> to transport spacecraft",
+      "Crawler",
+      "http://www.merriam-webster.com/dictionary/crawler",
+      "\n<a href=\"http://duckduckgo.com/Bottom_crawler\">Bottom crawler</a>, an underwater exploration and recovery vehicle",
+      "\n<a href=\"http://duckduckgo.com/Web_crawler\">Web crawler</a>, a computer program that gathers and categorizes information on the <a href=\"http://duckduckgo.com/?q=World Wide Web\">World Wide Web</a>",
+      "crawler definition: one that crawls.",
+      "Merriam-Webster",
+      "\nCrawler Crane a <a href=\"http://duckduckgo.com/tracked_vehicle\">tracked</a> crane",
+      "\n<a href=\"http://duckduckgo.com/Crawler_(band)\">Crawler (band)</a>, a British rock band"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "crawler" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Crawler' may refer to:\n\n* Bottom crawler, an underwater exploration and recovery vehicle\n* Crawler (band), a British rock band\n* Crawler Crane a tracked crane\n* Crawler, a person who Crawling (human) along the ground\n* Crawler-transporter, a large tracked vehicle used by NASA to transport\n  spacecraft\n* Web crawler, a computer program that gathers and categorizes information on\n  the World Wide Web\n",
+      "title" : "crawler",
+      "headings" : [
+         "Fictional characters",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Bottom_crawler",
+      "1: Tracked_vehicle",
+      "1: Crawler-transporter",
+      "1: NASA",
+      "1: Web_crawler",
+      "1: World_Wide_Web",
+      "1: Crawl"
+   ]
+}

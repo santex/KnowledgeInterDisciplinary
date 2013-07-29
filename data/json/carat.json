@@ -1,0 +1,80 @@
+{
+   "micrownet" : [
+      "carat"
+   ],
+   "google" : [
+      "/url?q=http://www.carat.com/&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CBkQFjAA&usg=AFQjCNG91Y3J-LoQbvZ0zYfJGeKhFF6LhA",
+      "/url?q=http://en.wikipedia.org/wiki/Carat_(mass)&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CCIQFjAB&usg=AFQjCNHkSUDrOFexq2Nsq0uj9lw5oDZFGA",
+      "/url?q=http://en.wikipedia.org/wiki/Carat&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CCoQFjAC&usg=AFQjCNGX8ZiAA1j8GWI6QqOunPtvRgYGQw",
+      "/url?q=http://www.carat.co/&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CC4QFjAD&usg=AFQjCNGWKHASWORmjlWUbRPb7YA1m2R2Hg",
+      "/url?q=http://www.carat.ie/&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CD8QFjAH&usg=AFQjCNEUu80aK3WLjqUxStp0J2UAgOKiqw"
+   ],
+   "micro" : [
+      "mass_unit",
+      "unit_of_measurement",
+      "weight_unit",
+      "unit",
+      "metric",
+      "quantity",
+      "metric_weight_unit",
+      "metric_unit",
+      "abstraction",
+      "definite_quantity",
+      "abstract_entity",
+      "measure",
+      "amount",
+      "carat",
+      "entity"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Carrot&v=n\">Carrot</a> - The carrot is a root vegetable, usually orange in colour, though purple, red, white, and yellow varieties exist.",
+      "Carat",
+      "\n<a href=\"http://duckduckgo.com/Carat_(mass)\">Carat (mass)</a>, a unit of mass for gemstones, equal to 0.2&nbsp;gram",
+      "\n<a href=\"http://duckduckgo.com/Carat_(purity)\">Carat (purity)</a> or karat, a unit of purity for gold",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=carat",
+      "A unit of weight for precious stones, equal to 200 milligrams.",
+      "TheFreeDictionary"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "carat" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n\n'Carat', 'karat', 'karet' or 'karot' may refer to:\n\nIn the 'gem business':\n* Carat (mass), a unit of mass for gemstones, equal to 0.2&nbsp;gram\n* Carat (purity) or karat, a unit of purity for gold\n\nIn 'Judaism':\n* Kareth or Karet, a biblical punishment decreed by Heaven (from the Hebrew verb\n  karat \"to cut off\")\n\nIn 'entertainment':\n* Carat (board game), an abstract tile-based German-style board game\n* Karat (band), a rock band from East Germany\n\nIn 'media and advertising':\n* Carat, Sifow's 3rd single\n* Carat UK, UK advertising agency\n\n'People':\n* Prakash Karat, Indian politician, General Secretary (2005-) of Communist Party\n  of India (Marxist)\n* Brinda Karat, Indian politician, Member of Parliament\n* KARAT, a KGB codeword for former FBI Agent & convicted spy Robert Hanssen\n\n'Places':\n* Karat, Hormozgan, a village in Hormozgan Province, Iran\n* Karat, Khuzestan, a village in Khuzestan Province, Iran\n* Karat, Razavi Khorasan, a village in Razavi Khorasan Province, Iran\n* Karat Rural District, an administrative subdivision of Razavi Khorasan\n  Province, Iran\n* Karot, Pakistan village in the Punjab, Pakistan\n\n'Military':\n* Programme CARAT, Cooperation Afloat Readiness and Training, annual held naval\n  exercise of the armed forces the United States, Brunei, Indonesia, Malaysia,\n  the Philippines, Singapore and Thailand.\n\n'Other':\n* Karat banana, a cultivated variety or group of cultivated varieties of banana\n  found in the Pacific Islands\n* Karat (airline), an airline in Russia\n* AMS Carat, a motorized sailplane\n* Karat, an early Agfa cartridge for 35 mm film\n",
+      "title" : "carat",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Kareth",
+      "1: Sifow",
+      "1: Carat_UK",
+      "1: Prakash_Karat",
+      "1: Brinda_Karat",
+      "1: Robert_Hanssen",
+      "1: Karat,_Hormozgan",
+      "1: Karat,_Khuzestan",
+      "1: Karat,_Razavi_Khorasan",
+      "1: Karat_Rural_District",
+      "1: Karot,_Pakistan",
+      "1: Cooperation_Afloat_Readiness_and_Training",
+      "1: Karat_banana",
+      "1: AMS_Carat",
+      "1: 35_mm_film",
+      "1: Caret",
+      "1: Carrot"
+   ]
+}

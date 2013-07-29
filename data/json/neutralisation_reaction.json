@@ -1,0 +1,56 @@
+{
+   "micrownet" : [
+      "neutralisation_reaction"
+   ],
+   "google" : [
+      "/url?q=http://www.rhymezone.com/r/d%3Dneutralisation_reaction&sa=U&ei=RRnoUZeyH4fEtQbr-YCIDA&ved=0CBoQFjAA&usg=AFQjCNEWAFoMz0xHEeemcq3W64pImoK1fg",
+      "/url?q=http://www.onelook.com/%3Fq%3Dneutralisation_reaction%26refclue%3Dessential%2520form%26loc%3Drcvote%26r%3D0&sa=U&ei=RRnoUZeyH4fEtQbr-YCIDA&ved=0CB0QFjAB&usg=AFQjCNEpmmb7MegqlSpU3m1mYcirk3xBOA",
+      "/url?q=http://www.audioenglish.org/dictionary/neutralisation_reaction.htm&sa=U&ei=RRnoUZeyH4fEtQbr-YCIDA&ved=0CCAQFjAC&usg=AFQjCNEy2ry_a2uTeHZuPUSonIKiQdDUmg",
+      "/url?q=http://dictionary.reference.com/browse/Neutralisation_reaction&sa=U&ei=RRnoUZeyH4fEtQbr-YCIDA&ved=0CCMQFjAD&usg=AFQjCNHKtKIUBjczjWUid_7HSBpX_SC3JA",
+      "/url?q=http://www.vocabulary.com/definition/neutralisation_reaction&sa=U&ei=RRnoUZeyH4fEtQbr-YCIDA&ved=0CCYQFjAE&usg=AFQjCNELQl57dYfDekEdAF2fWS5rPgeFYQ"
+   ],
+   "micro" : [
+      "action",
+      "process",
+      "chemical_reaction",
+      "chemical_action",
+      "chemical_process",
+      "physical_process",
+      "entity",
+      "neutralisation_reaction",
+      "chemical_change",
+      "natural_action",
+      "activity",
+      "neutralization_reaction",
+      "natural_process",
+      "reaction",
+      "neutralisation",
+      "neutralization",
+      "physical_entity"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "neutralisation_reaction" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Neutralization' may refer to:\n\n* Neutralization (chemistry), a chemical reaction where a base and an acid react\n  to form a salt\n* Neutralisation (immunology), pathogen neutralization caused by antibodies\n* Neutralisation (sociology)\n* Neutralization (linguistics), the elimination of certain distinctive features\n  of phonemes in certain environments\n* Insertion of a network in an amplifier to eliminate parasitic oscillation\n* ''Neutralized'' (album), a 2009 album by Ram-Zet\n",
+      "title" : "Neutralization",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Parasitic_oscillation"
+   ]
+}

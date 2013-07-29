@@ -1,0 +1,99 @@
+{
+   "micrownet" : [
+      "exothermic_reaction"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Exothermic_reaction&sa=U&ei=UhnoUcXKNsLctAbnnYD4CQ&ved=0CBoQFjAA&usg=AFQjCNEUviTRAfIOHA0HDBGaaxCMu0eI0Q",
+      "/url?q=http://en.wikipedia.org/wiki/User:Exothermic_Reaction&sa=U&ei=UhnoUcXKNsLctAbnnYD4CQ&ved=0CCMQFjAB&usg=AFQjCNHImYeMaqlMJIs5gzwU2LGrgQB90Q",
+      "/images?hl=en&q=exothermic_reaction&gbv=1&num=5&gl=&sa=X&oi=image_result_group&ei=UhnoUcXKNsLctAbnnYD4CQ&ved=0CCYQsAQ",
+      "/url?q=http://www.vocabulary.com/definition/exothermic_reaction&sa=U&ei=UhnoUcXKNsLctAbnnYD4CQ&ved=0CDIQFjAH&usg=AFQjCNEOijY1h4AcEEImY07IKCdvJ8iqjw",
+      "/url?q=http://groups.molbiosci.northwestern.edu/holmgren/Glossary/Definitions/Def-E/exothermic_reaction.html&sa=U&ei=UhnoUcXKNsLctAbnnYD4CQ&ved=0CDQQFjAI&usg=AFQjCNFynNkjd4vAVOAieiIr3s-aNOxLXQ",
+      "/url?q=http://wiki.answers.com/Q/Can_an_exothermic_reaction_have_positive_enthalpy&sa=U&ei=UhnoUcXKNsLctAbnnYD4CQ&ved=0CDkQFjAJ&usg=AFQjCNEDrvDJ83F2NHsIdp0K72dWK2JWGQ"
+   ],
+   "micro" : [
+      "natural_process",
+      "exothermicreaction",
+      "chemical_reaction",
+      "physical_entity",
+      "chemical_process",
+      "action",
+      "reaction",
+      "natural_action",
+      "chemical_action",
+      "activity",
+      "chemical_change",
+      "entity",
+      "physical_process",
+      "process"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "exothermic_reaction" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Thermochemistry"
+      ],
+      "text" : "\n reaction using iron(III) oxide. The sparks flying outwards are globules of\n molten iron trailing smoke in their wake.]] An 'exothermic reaction' is a\n chemical reaction that releases energy in the form of light or heat. It is the\n opposite of an endothermic reaction.<ref>Article written by Anne Marie\n Helmenstine, Ph.D on exothermic and endothermic reactions\n http://chemistry.about.com/cs/generalchemistry/a/aa051903a.htm</ref>\n\nExpressed in a chemical equation: reactants → products + energy\n",
+      "title" : "exothermic reaction",
+      "headings" : [
+         "Overview",
+         "Examples of exothermic reactions",
+         "Key points",
+         "Measurement",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Warm-blooded",
+      "2: Heat",
+      "2: Enthalpy",
+      "2: Combustion",
+      "2: Endothermic",
+      "2: Endergonic_reaction",
+      "2: Exergonic_reaction",
+      "2: Endergonic",
+      "2: Exergonic",
+      "1: Chemical_reaction",
+      "1: Energy",
+      "1: Light",
+      "1: Endothermic_reaction",
+      "1: Chemical_equation",
+      "1: Calorimeter",
+      "1: Bomb_calorimeter",
+      "1: Fuel",
+      "1: Anhydrous",
+      "1: Thermite",
+      "1: Self-heating_can",
+      "1: Aluminium",
+      "1: Corrosion",
+      "1: Oxidation",
+      "1: Polymerisation",
+      "1: Haber_process",
+      "1: Ammonia_production",
+      "1: Gibbs_free_energy",
+      "1: Thermal_runaway",
+      "1: Explosion",
+      "1: Calorimetry",
+      "1: Reaction_calorimeter",
+      "1: Crystallisation",
+      "1: Joule_per_mole",
+      "1: Chemical_thermodynamics",
+      "1: Differential_scanning_calorimetry",
+      "1: Exothermic"
+   ]
+}

@@ -1,1 +1,131 @@
-{"cursor":"5515","size":15,"audio":[],"currentlang":"en","article":"\n\n\nA 'knowledge base' or 'knowledgebase' (also 'KB' or 'kb') Argumentation in\nArtificial Intelligence by Iyad Rahwan, Guillermo R. Simari {{cite web\n| title = OWL DL Semantics url = http://www.obitko.com/tutorials/ontologies-semantic-web/owl-dl-\n| semantics.html accessdate = 10 December 2010}} ) is a special kind of\n| database for knowledge management. A knowledge base is an information\n| repository that provides a means for information to be collected, organized,\n| shared, searched and utilized. It can be either machine-readable or intended\n| for human use.\n","linknr":317,"url":"knowledge_base","recorded":1365389907,"links":["/w/index.php?title=Knowledge_base&action=edit","/w/index.php?title=Knowledge_base&action=edit","//en.wikipedia.org/apple-touch-icon.png","//bits.wikimedia.org/favicon/wikipedia.ico","/w/opensearch_desc.php","//en.wikipedia.org/w/api.php?action=rsd","//creativecommons.org/licenses/by-sa/3.0/","/w/index.php?title=Special:RecentChanges&feed=atom","//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&only=styles&skin=vector&*","//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector&*","//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*","//bits.wikimedia.org/geoiplookup","//meta.wikimedia.org","#mw-navigation","#p-search","//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/50px-Mergefrom.svg.png","/wiki/Domain_knowledge","/wiki/Wikipedia:Merging","/wiki/Talk:Knowledge_base#Merge_Domain_knowledge_in_Knowledge_base","//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png","//en.wikipedia.org/w/index.php?title=Knowledge_base&action=edit","/wiki/Help:Introduction_to_referencing/1","/wiki/Template:Citation_needed","/wiki/Wikipedia:Verifiability#Burden_of_evidence","#cite_note-1","#cite_note-2","/wiki/Database","/wiki/Knowledge_management","#Machine-readable_knowledge_bases","#Human-readable_knowledge_bases","#Categories_of_knowledge_base_information","#Knowledge_base_analysis_and_design","#See_also","#Notes","#External_links","/w/index.php?title=Knowledge_base&action=edit&section=1","/wiki/Deductive_reasoning","/wiki/Logically_consistent","/wiki/Ontology_(computer_science)","/wiki/Logical_conjunction","/wiki/Disjunction","/wiki/Material_conditional","/wiki/Negation","/wiki/Artificial_intelligence","/wiki/Expert_system","/wiki/Semantic_web","/wiki/List_of_artificial_intelligence_projects#Knowledge_and_reasoning","/w/index.php?title=Knowledge_base&action=edit&section=2","/wiki/Help_desk","/wiki/Organization","/wiki/Troubleshooting","/wiki/White_paper","/wiki/User_guide","/wiki/Knowledge_tags","/wiki/Frequently_asked_questions","/wiki/Search_engine","/wiki/Library_classification","#cite_note-3","#cite_note-4","/wiki/Wiki","#cite_note-5","/wiki/AI","/wiki/DBpedia","/w/index.php?title=Knowledge_base&action=edit&section=3","/wiki/FAQ","/wiki/How-to","/wiki/Process","/wiki/Procedures","/wiki/Tutorial","/wiki/Reference#Library_and_information_sciences","/wiki/Illustrations","/wiki/Flowchart","/w/index.php?title=Knowledge_base&action=edit&section=4","#cite_note-6","/w/index.php?title=Knowledge_base&action=edit&section=5","/wiki/Knowledge_management","/wiki/Information_repository","/wiki/Content_management","/wiki/Commonsense_knowledge_base","/wiki/Enterprise_bookmarking","/wiki/Text_mining","/w/index.php?title=Knowledge_base&action=edit&section=6","#cite_ref-1","#cite_ref-2","http://www.obitko.com/tutorials/ontologies-semantic-web/owl-dl-semantics.html","#cite_ref-3","http://www.matthewb.id.au/utility/index.html","#cite_ref-4","#cite_ref-5","http://www.matthewb.id.au/utility/free-knowledge-base-for-mobile-and-computer.html","#cite_ref-6","/w/index.php?title=Knowledge_base&action=edit&section=7","http://www.jbpub.com/Catalog/9780763776473/Overview/","http://jcp.org/en/jsr/detail?id=170","http://www.cis.upenn.edu/~giorgi/cl.html","http://protege.stanford.edu/index.html","http://www.eturner.net/omcsnetcpp/wordnet/","http://templateforfree.com/writing-knowledge-based-articles/","/wiki/Template:Semantic_Web","/wiki/Template_talk:Semantic_Web","//en.wikipedia.org/w/index.php?title=Template:Semantic_Web&action=edit","/wiki/Semantic_Web","/wiki/Database","/wiki/Hypertext","/wiki/Internet","/wiki/Ontology_(information_science)","/wiki/Semantic_network","/wiki/World_Wide_Web","/wiki/Data_Web","/wiki/Dataspaces","/wiki/Dereferenceable_Uniform_Resource_Identifier","/wiki/Hyperdata","/wiki/Linked_data","/wiki/Rule-based_system","/wiki/Semantic_advertising","/wiki/Semantic_analytics","/wiki/Semantic_broker","/wiki/Semantic_computing","/wiki/Semantic_mapper","/wiki/Semantic_matching","/wiki/Semantic_publishing","/wiki/Semantic_reasoner","/wiki/Semantic_search","/wiki/Semantic_service-oriented_architecture","/wiki/Semantic_wiki","/wiki/Collective_intelligence","/wiki/Description_logic","/wiki/Folksonomy","/wiki/Geotagging","/wiki/Information_architecture","/wiki/Knowledge_extraction","/wiki/Knowledge_management","/wiki/Library_2.0","/wiki/Metadata","/wiki/Mind_map","/wiki/ODBC","/wiki/Reference_(computer_science)","/wiki/Topic_Maps","/wiki/Web_2.0","/wiki/Web_Science_Trust","/wiki/Hypertext_Transfer_Protocol","/wiki/Resource_Description_Framework","/wiki/RDF/XML","/wiki/JSON-LD","/wiki/Turtle_(syntax)","/wiki/Notation3","/wiki/N-Triples","/wiki/SPARQL","/wiki/Uniform_resource_identifier","/wiki/XML","/wiki/Common_logic","/wiki/Web_Ontology_Language","/wiki/RDF_Schema","/wiki/Rule_Interchange_Format","/wiki/Semantic_Web_Rule_Language","/wiki/Embedded_RDF","/wiki/GRDDL","/wiki/Microdata_(HTML)","/wiki/Microformat","/wiki/RDFa","/wiki/SAWSDL","/wiki/DOAP","/wiki/Dublin_Core","/wiki/FOAF_(software)","/wiki/Semantically-Interlinked_Online_Communities","/wiki/Simple_Knowledge_Organization_System","/wiki/UMBEL","/wiki/Template:Computable_knowledge","/wiki/Template_talk:Computable_knowledge","//en.wikipedia.org/w/index.php?title=Template:Computable_knowledge&action=edit","/wiki/Alphabet_of_human_thought","/wiki/Authority_control","/wiki/Automated_reasoning","/wiki/Commonsense_knowledge_base","/wiki/Commonsense_reasoning","/wiki/Computability","/wiki/Formal_system","/wiki/Inference_engine","/wiki/Knowledge-based_systems","/wiki/Knowledge_discovery","/wiki/Knowledge_engineering","/wiki/Knowledge_representation_and_reasoning","/wiki/Knowledge_retrieval","/wiki/Knowledge_extraction","/wiki/Library_classification","/wiki/Logic_programming","/wiki/Ontology_(information_science)","/wiki/Question_answering#Deep","/wiki/Semantic_reasoner","/wiki/Zairja","/wiki/Ramon_Llull#Ars_generalis_ultima_.28Ars_Magna.29","/wiki/Ramon_Llull","/wiki/An_Essay_towards_a_Real_Character_and_a_Philosophical_Language","/wiki/John_Wilkins","/wiki/Calculus_ratiocinator","/wiki/Characteristica_universalis","/wiki/Gottfried_Leibniz","/wiki/Dewey_Decimal_Classification","/wiki/Melvil_Dewey","/wiki/Begriffsschrift","/wiki/Gottlob_Frege","/wiki/Mundaneum","/wiki/Paul_Otlet","/wiki/Henri_La_Fontaine","/wiki/Logical_atomism","/wiki/Bertrand_Russell","/wiki/Tractatus_Logico-Philosophicus","/wiki/Ludwig_Wittgenstein","/wiki/Hilbert%27s_program","/wiki/David_Hilbert","/wiki/G%C3%B6del%27s_incompleteness_theorems","/wiki/Kurt_G%C3%B6del","/wiki/Memex","/wiki/Vannevar_Bush","/wiki/Prolog","/wiki/Cyc","/wiki/True_Knowledge","/wiki/True_Knowledge","/wiki/Wolfram_Alpha","/wiki/Wolfram_Research","/wiki/Watson_(computer)","/wiki/IBM","/wiki/Siri_(software)","/wiki/Apple_Inc.","/wiki/Knowledge_Graph","/wiki/Google","/wiki/The_Engine","/wiki/Gulliver%27s_Travels","/wiki/A_Logic_Named_Joe","/wiki/Snow_Crash","/wiki/A.I._Artificial_Intelligence","/wiki/The_Baroque_Cycle","/wiki/Artificial_intelligence_in_fiction#Logic_machines","/wiki/List_of_fictional_computers","http://en.wikipedia.org/w/index.php?title=Knowledge_base&oldid=542419975","/wiki/Help:Categories","/wiki/Category:Technical_communication","/wiki/Category:Knowledge_bases","/wiki/Category:Articles_to_be_merged_from_July_2012","/wiki/Category:All_articles_to_be_merged","/wiki/Category:Articles_needing_additional_references_from_November_2008","/wiki/Category:All_articles_needing_additional_references","/wiki/Category:Use_dmy_dates_from_February_2011","/w/index.php?title=Special:UserLogin&returnto=Knowledge+base&type=signup","/w/index.php?title=Special:UserLogin&returnto=Knowledge+base","/wiki/Knowledge_base","/wiki/Talk:Knowledge_base","#","/wiki/Knowledge_base","/w/index.php?title=Knowledge_base&action=edit","/w/index.php?title=Knowledge_base&action=history","#","/w/index.php","//bits.wikimedia.org/static-1.21wmf12/skins/vector/images/search-ltr.png?303-4","/wiki/Main_Page","/wiki/Main_Page","/wiki/Portal:Contents","/wiki/Portal:Featured_content","/wiki/Portal:Current_events","/wiki/Special:Random","//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en","/wiki/Help:Contents","/wiki/Wikipedia:About","/wiki/Wikipedia:Community_portal","/wiki/Special:RecentChanges","/wiki/Wikipedia:Contact_us","/wiki/Special:WhatLinksHere/Knowledge_base","/wiki/Special:RecentChangesLinked/Knowledge_base","/wiki/Wikipedia:File_Upload_Wizard","/wiki/Special:SpecialPages","/w/index.php?title=Knowledge_base&oldid=542419975","/w/index.php?title=Knowledge_base&action=info","/w/index.php?title=Special:Cite&page=Knowledge_base&id=542419975","/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Knowledge+base","/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=Knowledge+base&oldid=542419975&writer=rl","/w/index.php?title=Knowledge_base&printable=yes","//ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9_%D9%85%D8%B9%D8%B1%D9%81%D8%A9","//az.wikipedia.org/wiki/Bilikl%C9%99r_bazas%C4%B1","//bs.wikipedia.org/wiki/Baza_znanja","//de.wikipedia.org/wiki/Wissensdatenbank","//es.wikipedia.org/wiki/Base_de_conocimiento","//fa.wikipedia.org/wiki/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87_%D8%AF%D8%A7%D9%86%D8%B4","//fr.wikipedia.org/wiki/Base_de_connaissance","//ko.wikipedia.org/wiki/%EC%A7%80%EC%8B%9D_%EB%B2%A0%EC%9D%B4%EC%8A%A4","//hr.wikipedia.org/wiki/Baza_znanja","//id.wikipedia.org/wiki/Basis_pengetahuan","//it.wikipedia.org/wiki/Base_di_conoscenza","//lt.wikipedia.org/wiki/%C5%BDini%C5%B3_baz%C4%97","//hu.wikipedia.org/wiki/Tud%C3%A1sb%C3%A1zis","//mk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%BD%D0%B0_%D0%B7%D0%BD%D0%B0%D0%B5%D1%9A%D0%B0","//ms.wikipedia.org/wiki/Pangkalan_pengetahuan","//nl.wikipedia.org/wiki/Kennisbank","//ja.wikipedia.org/wiki/%E7%9F%A5%E8%AD%98%E3%83%99%E3%83%BC%E3%82%B9","//pl.wikipedia.org/wiki/Baza_wiedzy","//pt.wikipedia.org/wiki/Base_de_conhecimento","//ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9","//th.wikipedia.org/wiki/%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89","//tg.wikipedia.org/wiki/%D0%9C%D1%83%D0%B4%D0%B8%D1%80%D0%B8%D1%8F%D1%82%D0%B8_%D0%B4%D0%BE%D0%BD%D0%B8%D1%88","//uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%B7%D0%BD%D0%B0%D0%BD%D1%8C","//ur.wikipedia.org/wiki/%D9%82%D8%A7%D8%B9%D8%AF%DB%81_%D8%AF%D8%A7%D9%86%D8%B4","//zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E5%BA%93","//www.wikidata.org/wiki/Q593744","//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License","//creativecommons.org/licenses/by-sa/3.0/","//wikimediafoundation.org/wiki/Terms_of_Use","//wikimediafoundation.org/wiki/Privacy_policy","//www.wikimediafoundation.org/","//en.wikipedia.org/wiki/Wikipedia:Contact_us","//wikimediafoundation.org/wiki/Privacy_policy","/wiki/Wikipedia:About","/wiki/Wikipedia:General_disclaimer","http://en.m.wikipedia.org/wiki/Knowledge_base","//wikimediafoundation.org/","//bits.wikimedia.org/images/wikimedia-button.png","//www.mediawiki.org/","//bits.wikimedia.org/static-1.21wmf12/skins/common/images/poweredby_mediawiki_88x31.png","/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&action=raw&ctype=text/javascript&508635914","//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*"],"instances":["computer_science"],"pdf":[],"categories":["Technical communication","Knowledge bases|"],"headings":["Machine-readable knowledge bases","Human-readable knowledge bases","Knowledge base analysis and design","See also","Notes","External links"],"image":["//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/50px-Mergefrom.svg.png","//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png","//bits.wikimedia.org/static-1.21wmf12/skins/vector/images/search-ltr.png?303-4","//bits.wikimedia.org/images/wikimedia-button.png","//bits.wikimedia.org/static-1.21wmf12/skins/common/images/poweredby_mediawiki_88x31.png"],"tags":[["ontology","computer_science"]],"members":["ontology"],"related":["Database","Knowledge_management","Deductive_reasoning","Logically_consistent","Ontology_(computer_science)","Logical_conjunction","Disjunction","Artificial_intelligence","Expert_system","Semantic_web","Help_desk","Organization","Troubleshooting","White_paper","User_guide","Knowledge_tags","Frequently_asked_questions","Search_engine","Library_classification","Wiki","AI","DBpedia","FAQ","How-to","Process","Procedures","Tutorial","Illustrations","Flowchart","Knowledge_management","Information_repository","Content_management","Commonsense_knowledge_base","Enterprise_bookmarking","Text_mining"]}
+{
+   "google" : [
+      "/url?q=http://kb.mozillazine.org/&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CBsQFjAA&usg=AFQjCNEucotFtfVEH52KDILMzeh-NXJSVA",
+      "/url?q=https://en.wikipedia.org/wiki/Knowledge_base&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CB8QFjAB&usg=AFQjCNGxUWVoTB80rSzR6kosnsqZA2U1Nw",
+      "/url?q=http://support.epnet.com/knowledge_base/&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CCIQFjAC&usg=AFQjCNE1ZlSGcl8j4UISE_MeIb6BYeDekA",
+      "/url?q=http://cfpub.epa.gov/crem/knowledge_base/knowbase.cfm&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CCUQFjAD&usg=AFQjCNGHtAyqqb0DDXyjLm875igHumPiWg",
+      "/url?q=https://github.com/albertbellonch/knowledge_base&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CCgQFjAE&usg=AFQjCNFZOHMyuPuY4vDTOOgU-qzFXWHs_Q",
+      "/url?q=http://www.ricoh-usa.com/support/knowledge_base.aspx&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CCsQFjAF&usg=AFQjCNHbqVqp3-fvxw4MoLGUOrnBgJxlQw",
+      "/url?q=http://mhk.pnnl.gov/wiki/index.php/Knowledge_Base&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CC4QFjAG&usg=AFQjCNFRd8eWmLf4RgGpEcKyLdh4zThE_w",
+      "/url?q=http://www.swarmnet.de/shawn/doc/knowledge__base_8cpp.html&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CDEQFjAH&usg=AFQjCNEKumTj4_KNwEpSCAqbDi252W-BPg",
+      "/url?q=http://www.swarmnet.de/shawn/doc/knowledge__base_8h.html&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CDQQFjAI&usg=AFQjCNFWlKQNTrF4inDKx6SI8gTahe1_Vw",
+      "/url?q=http://forums.logitech.com/t5/tag/knowledge_base/tg-p/tag-id/4947/board-id/communitynews&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CDcQFjAJ&usg=AFQjCNFVc4Xa2BnvtJGuVoJyjb1nxozkiQ",
+      "/url?q=http://supportops.co/tender-app-review/knowledge_base/&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CDoQFjAK&usg=AFQjCNElYOKMijKX7wSx1BJ4K0Iw6aXyBw",
+      "/url?q=http://support.caltel.com/knowledge_base&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CD4QFjAL&usg=AFQjCNGr9kYqs_0qW3qAClpxUD1Q9_Y0aQ",
+      "/url?q=http://support.ebsco.com/knowledge_base/detail.php%3Fid%3D1255&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CEIQFjAM&usg=AFQjCNH1LEr20mppp66sZFxQDzHXdmD7jg",
+      "/url?q=http://meetingsupport.org/knowledge_base&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CEYQFjAN&usg=AFQjCNHo-UPbbH62WkSA66zB8yEn4AOx-Q",
+      "/url?q=http://www.perception.co.uk/assets/page/knowledge_base/&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CEkQFjAO&usg=AFQjCNElhC5wpfmkIRpcZuDyn35ffL-Utw",
+      "/images?hl=en&q=knowledge_base&gbv=1&num=23&gl=&sa=X&oi=image_result_group&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CEwQsAQ",
+      "/url?q=https://www.eyetechds.com/wp/category/knowledge-base/page/4/&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CFYQFjAT&usg=AFQjCNHQ8FO30tUvhmD_NxWCAqfY6v9ewQ",
+      "/url?q=http://compsoc.ie/wiki/wiki:knowledge_base&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CFkQFjAU&usg=AFQjCNEMYoJYAW1z6_rwDR_tcNJR8X7ULQ",
+      "/url?q=http://www.scp-responder.eu/knowledge_base&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CF0QFjAV&usg=AFQjCNFlp3i3Wer0-s4I7dVrmUPb1g2csw",
+      "/url?q=http://www.hitl.washington.edu/research/knowledge_base/virtual-worlds/scivw-ftp/&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CGAQFjAW&usg=AFQjCNGHKYitzEMUjj8gJfmN_MTj1QFGJg",
+      "/url?q=http://wiki.secondlife.com/wiki/Old_Knowledge_Base&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CGMQFjAX&usg=AFQjCNFPOGXA_Ky12mg5USXlNS_nqSCkbw",
+      "/url?q=http://www.aberdeenphoto.com/Knowledge_Base.html&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CGcQFjAY&usg=AFQjCNF5c8PCxyyNOumlq1a7O37RaZ4QpQ",
+      "/url?q=http://www.barbecuecountry.com/categories/knowledge-base.html%3Fcategory%3D19&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CGoQFjAZ&usg=AFQjCNFTgFKAaM0bFsGla1IRog6FZXaYKg",
+      "/url?q=http://www.aisquared.com/knowledge_base/&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CG0QFjAa&usg=AFQjCNEsdVtlFrxo4i_6KZD4YpM9cWTjGg"
+   ],
+   "micrownet" : [
+      "knowledge_base"
+   ],
+   "micro" : [
+      "noesis",
+      "cognition",
+      "scientific_knowledge",
+      "field_of_study",
+      "subject_area",
+      "bailiwick",
+      "study",
+      "discipline",
+      "abstract_entity",
+      "subject_field",
+      "field",
+      "psychological_feature",
+      "knowledge_base",
+      "mental_object",
+      "knowledge",
+      "abstraction",
+      "knowledgedomain",
+      "cognitive_content",
+      "entity",
+      "subject",
+      "realm",
+      "region",
+      "domain",
+      "content"
+   ],
+   "Lists" : [
+      "List_of_artificial_intelligence_projects#Knowledge_and_reasoning"
+   ],
+   "micro-www-search" : [
+      [
+         "knowledge_base",
+         ">http",
+         "http://en.m.wikipedia.org/wiki/Knowledge_base",
+         "http://en.wikipedia.org/w/index.php?title=Knowledge_base&oldid=542419975",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/50px-Mergefrom.svg.png"
+      ]
+   ],
+   "created" : 1373449076,
+   "micro-www" : {
+      "knowledge_base" : [
+         "knowledge_base",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Technical communication",
+         "Knowledge bases|"
+      ],
+      "text" : "\n\n\nA 'knowledge base' or 'knowledgebase' (also 'KB' or 'kb') <ref>Argumentation in\nArtificial Intelligence by Iyad Rahwan, Guillermo R. Simari</ref><ref>{{cite web\n| title = OWL DL Semantics url = http://www.obitko.com/tutorials/ontologies-semantic-web/owl-dl-\n| semantics.html accessdate = 10 December 2010}}</ref>) is a special kind of\n| database for knowledge management. A knowledge base is an information\n| repository that provides a means for information to be collected, organized,\n| shared, searched and utilized. It can be either machine-readable or intended\n| for human use.\n",
+      "title" : "knowledge base",
+      "headings" : [
+         "Machine-readable knowledge bases",
+         "Human-readable knowledge bases",
+         "Knowledge base analysis and design",
+         "See also",
+         "Notes",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Knowledge_management",
+      "1: Database",
+      "1: Deductive_reasoning",
+      "1: Logically_consistent",
+      "1: Logical_conjunction",
+      "1: Disjunction",
+      "1: Artificial_intelligence",
+      "1: Expert_system",
+      "1: Semantic_web",
+      "1: List_of_artificial_intelligence_projects#Knowledge_and_reasoning",
+      "1: Help_desk",
+      "1: Organization",
+      "1: Troubleshooting",
+      "1: White_paper",
+      "1: User_guide",
+      "1: Knowledge_tags",
+      "1: Frequently_asked_questions",
+      "1: Search_engine",
+      "1: Library_classification",
+      "1: Wiki",
+      "1: AI",
+      "1: DBpedia",
+      "1: FAQ",
+      "1: How-to",
+      "1: Process",
+      "1: Procedures",
+      "1: Tutorial",
+      "1: Reference#Library_and_information_sciences",
+      "1: Illustrations",
+      "1: Flowchart",
+      "1: Information_repository",
+      "1: Content_management",
+      "1: Commonsense_knowledge_base",
+      "1: Enterprise_bookmarking",
+      "1: Text_mining"
+   ]
+}

@@ -1,0 +1,48 @@
+{
+   "micrownet" : [
+      "double_decomposition_reaction"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/double%2Bdecomposition%2Breaction&sa=U&ei=TxnoUbWUJoLTtAb7h4HQBQ&ved=0CBoQFjAA&usg=AFQjCNHbRwrFf6CMyltVJDNxCegI5WNoGw",
+      "/url?q=https://en.wikipedia.org/wiki/Salt_metathesis_reaction&sa=U&ei=TxnoUbWUJoLTtAb7h4HQBQ&ved=0CB4QFjAB&usg=AFQjCNF8L04oHS4bJlG0RrOE7kR7FyPKNA",
+      "/url?q=http://amrita.olabs.co.in/%3Fsub%3D73%26brch%3D3%26sim%3D82%26cnt%3D1&sa=U&ei=TxnoUbWUJoLTtAb7h4HQBQ&ved=0CCEQFjAC&usg=AFQjCNHTIbB9sEsBgTharBPTABJapFqaXg",
+      "/url?q=http://chemistry.about.com/od/chemistryglossary/g/Double-Displacement-Reaction-Definition.htm&sa=U&ei=TxnoUbWUJoLTtAb7h4HQBQ&ved=0CCQQFjAD&usg=AFQjCNFFd8kLoNU3ypwhLPuRUFuk2rToEA",
+      "/url?q=http://dictionary.reference.com/browse/double%2Bdecomposition%2Breaction&sa=U&ei=TxnoUbWUJoLTtAb7h4HQBQ&ved=0CCcQFjAE&usg=AFQjCNHhmd5DuZlWJI3K6I48Xm61u53Dwg"
+   ],
+   "micro" : [
+      "chemical_action",
+      "doubledecomposition",
+      "natural_process",
+      "reaction",
+      "activity",
+      "action",
+      "process",
+      "natural_action",
+      "entity",
+      "chemical_process",
+      "double_decomposition_reaction",
+      "physical_entity",
+      "chemical_change",
+      "physical_process",
+      "chemical_reaction",
+      "double_replacement_reaction",
+      "metathesis"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "double_decomposition_reaction" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

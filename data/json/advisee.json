@@ -1,0 +1,63 @@
+{
+   "micrownet" : [
+      "advisee"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/advisee&sa=U&ei=LxnoUeaNLYvBtAbG0IAw&ved=0CBgQFjAB&usg=AFQjCNGX1VLJZey28sBupUEyt71mZic0zA",
+      "/url?q=http://www.merriam-webster.com/dictionary/advisee&sa=U&ei=LxnoUeaNLYvBtAbG0IAw&ved=0CBwQFjAC&usg=AFQjCNFUXMxhMqrTAAjGSAbQgBIfWD9QBw",
+      "/url?q=http://dictionary.reference.com/browse/advisee&sa=U&ei=LxnoUeaNLYvBtAbG0IAw&ved=0CCEQFjAD&usg=AFQjCNFLmzCyV7QTbiDcDHqWuBsVX-7AkA",
+      "/url?q=http://hilo.hawaii.edu/studentaffairs/advising/AdvisorandAdviseeResponsibilities.php&sa=U&ei=LxnoUeaNLYvBtAbG0IAw&ved=0CCUQFjAE&usg=AFQjCNF8YBoCUf6VyqKXyNMib4lERKhTxg",
+      "/url?q=http://en.wiktionary.org/wiki/advisee&sa=U&ei=LxnoUeaNLYvBtAbG0IAw&ved=0CCgQFjAF&usg=AFQjCNFtmnfr0ptMOLmEhMtIPOpWEv_Bgw"
+   ],
+   "micro" : [
+      "object",
+      "physical_entity",
+      "physical_object",
+      "somebody",
+      "whole",
+      "entity",
+      "person",
+      "being",
+      "mortal",
+      "soul",
+      "organism",
+      "someone",
+      "cause",
+      "individual",
+      "animate_thing",
+      "causal_agent",
+      "unit",
+      "living_thing",
+      "advisee",
+      "causal_agency"
+   ],
+   "duck" : [
+      "advisee",
+      "advisee definition: one who is advised.",
+      "http://www.merriam-webster.com/dictionary/advisee",
+      "advisee definition: one who is advised.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "advisee" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n<!--Excess long comment to prevent listing on .................................-\n...............................................................................-\n...............................................................................-\n...............................................................................-\n...............................................................................-\n...............................................................................-\n...............................................................................-\n.........................................................-->\n",
+      "title" : "advisee",
+      "headings" : []
+   },
+   "micro-relation" : []
+}

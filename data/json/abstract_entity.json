@@ -1,0 +1,97 @@
+{
+   "micrownet" : [
+      "abstract_entity"
+   ],
+   "google" : [
+      "/url?q=https://en.wikipedia.org/wiki/Abstract_Entity&sa=U&ei=SRroUZqXE8_DswaGroCIBQ&ved=0CBoQFjAA&usg=AFQjCNGWt_ol-3tuIWeqc3ahuszK7avJ6w",
+      "/url?q=https://twitter.com/abstract_entity&sa=U&ei=SRroUZqXE8_DswaGroCIBQ&ved=0CB0QFjAB&usg=AFQjCNFFJcC93-3Ej32mlUmJHoiwRPnmvA",
+      "/url?q=http://www.okcupid.com/profile/abstract_entity&sa=U&ei=SRroUZqXE8_DswaGroCIBQ&ved=0CCAQFjAC&usg=AFQjCNGGZ4fm3rzX_tyG-Dn7e0JSReGDUw",
+      "/url?q=http://www.metal-archives.com/reviews/Kiana/Abstract_Entity/251410/&sa=U&ei=SRroUZqXE8_DswaGroCIBQ&ved=0CCMQFjAD&usg=AFQjCNFO-4iOHy3gvrD2orWZcwqhrXwYOA",
+      "/url?q=http://www.spirit-of-metal.com/album-groupe-Kiana-nom_album-Abstract_Entity-l-en.html&sa=U&ei=SRroUZqXE8_DswaGroCIBQ&ved=0CCYQFjAE&usg=AFQjCNFc_jeGA3X0HQV_Avxhnz85-OU83g"
+   ],
+   "micro" : [
+      "abstraction",
+      "abstract_entity",
+      "entity",
+      "attribute",
+      "otherworld",
+      "psychological_feature",
+      "group",
+      "communication",
+      "set",
+      "measure",
+      "quantity",
+      "amount",
+      "relation",
+      "grouping"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "abstract_entity" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Abstraction",
+         "Ontology",
+         "Concepts",
+         "Concepts in metaphysics",
+         "Abstract object theory"
+      ],
+      "text" : "\n\nAbstract and concrete are classifications that denote whether a term describes\nan object with a physical referent or one with no physical referents. They are\nmost commonly used in philosophy and semantics. Abstract objects are sometimes\ncalled 'abstracta' (sing. 'abstractum') and concrete objects are sometimes\ncalled [[wikt:concreta|concreta]] (sing. concretum). An 'abstract object' is an\nobject which does not exist at any particular time or place, but rather exists\nas a type of thing, i.e. an idea, or abstraction.<ref name=\"A Glossary of\nLiterary Terms\"></ref> The term 'abstract object' is said to have been coined by\nWillard Van Orman Quine.<ref></ref> The study of abstract objects is called\nabstract object theory.\n",
+      "title" : "Abstract%20and%20concrete",
+      "headings" : [
+         "In philosophy",
+         "Concrete and abstract thinking",
+         "Terminology",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Abstraction",
+      "2: Problem_of_universals",
+      "1: Referent",
+      "1: Philosophy",
+      "1: Semantics",
+      "1: Concrete_object",
+      "1: Idea",
+      "1: Willard_Van_Orman_Quine",
+      "1: Abstract_object_theory",
+      "1: Type-token_distinction",
+      "1: Ontology",
+      "1: Physicalism",
+      "1: Metaphysical_naturalism",
+      "1: Epistemology",
+      "1: Empiricism",
+      "1: Edward_Zalta",
+      "1: Plato",
+      "1: Theory_of_Forms",
+      "1: Metaphysics",
+      "1: Causality",
+      "1: Jean_Piaget",
+      "1: Formal_Operational#Formal_operational_stage",
+      "1: Noun#Concrete_nouns_and_abstract_nouns",
+      "1: Abstract_structure",
+      "1: Conceptual_framework",
+      "1: Immanuel_Kant",
+      "1: Nominalism",
+      "1: Non-physical_entity",
+      "1: Object_of_the_mind",
+      "1: Philosophy_of_mathematics",
+      "1: Platonic_form",
+      "1: Abstract_Object_Theory"
+   ]
+}

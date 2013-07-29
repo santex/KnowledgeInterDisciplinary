@@ -1,0 +1,49 @@
+{
+   "micrownet" : [
+      "chemical_decomposition_reaction"
+   ],
+   "google" : [
+      "/url?q=http://chemistry.about.com/od/chemicalreactions/a/chemical-decomposition-reaction.htm&sa=U&ei=ZxnoUdGdC4HKtQbASA&ved=0CBoQFjAA&usg=AFQjCNEwOGCZLsHetrk3DStV8_UjWO95Mg",
+      "/url?q=http://en.wikipedia.org/wiki/Chemical_decomposition&sa=U&ei=ZxnoUdGdC4HKtQbASA&ved=0CB4QFjAB&usg=AFQjCNGrfw5Sb5Lvt38f1hNJkopsRnP2-w",
+      "/images?hl=en&q=chemical_decomposition_reaction&gbv=1&num=5&gl=&sa=X&oi=image_result_group&ei=ZxnoUdGdC4HKtQbASA&ved=0CCcQsAQ",
+      "/url?q=http://misterguch.brinkster.net/6typesofchemicalrxn.html&sa=U&ei=ZxnoUdGdC4HKtQbASA&ved=0CDEQFjAG&usg=AFQjCNHEa0FZx_Iy10RbEsJ_vvKs0WCM5w",
+      "/url?q=http://amrita.olabs.co.in/%3Fsub%3D73%26brch%3D3%26sim%3D80%26cnt%3D1&sa=U&ei=ZxnoUdGdC4HKtQbASA&ved=0CDUQFjAH&usg=AFQjCNHMS3-Supu2wZn2JhFazDMvXtolPw",
+      "/url?q=http://www.iun.edu/~cpanhd/C101webnotes/chemical%2520reactions/decomposition.html&sa=U&ei=ZxnoUdGdC4HKtQbASA&ved=0CDgQFjAI&usg=AFQjCNFSSYhtBFwO6XaHcGJqZ9qatb6Rdg"
+   ],
+   "micro" : [
+      "physical_process",
+      "action",
+      "natural_process",
+      "chemical_decomposition_reaction",
+      "decomposition_reaction",
+      "process",
+      "physical_entity",
+      "chemical_reaction",
+      "activity",
+      "decomposition",
+      "chemical_process",
+      "natural_action",
+      "reaction",
+      "chemical_action",
+      "entity",
+      "chemical_change",
+      "electrolysis"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "chemical_decomposition_reaction" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

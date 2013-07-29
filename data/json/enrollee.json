@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "enrollee"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/enrollee&sa=U&ei=ARnoUeioEY_ltQbKhoGoAg&ved=0CBgQFjAA&usg=AFQjCNG6i9qvdj-n1HvZ2z0_Mmp3W_h8sQ",
+      "/url?q=http://www.thefreedictionary.com/enrollees&sa=U&ei=ARnoUeioEY_ltQbKhoGoAg&ved=0CBwQFjAB&usg=AFQjCNGq-kySgOctC_2gdRN3UwyjxPKHyw",
+      "/url?q=http://dictionary.reference.com/browse/enrollee&sa=U&ei=ARnoUeioEY_ltQbKhoGoAg&ved=0CCAQFjAC&usg=AFQjCNH6okdFqb4GW8F3iP2FTX08TBEzbQ",
+      "/url?q=http://sentence.yourdictionary.com/enrollee&sa=U&ei=ARnoUeioEY_ltQbKhoGoAg&ved=0CCMQFjAD&usg=AFQjCNGaoAbC27cvSpbyHup-RKhKDck8FA",
+      "/url?q=http://www.webopedia.com/TERM/E/enrollee.html&sa=U&ei=ARnoUeioEY_ltQbKhoGoAg&ved=0CCYQFjAE&usg=AFQjCNFuVrGcuvofRNFGX6322azqlIQrWg"
+   ],
+   "micro" : [
+      "causal_agency",
+      "physical_entity",
+      "enrollee",
+      "object",
+      "soul",
+      "living_thing",
+      "animate_thing",
+      "cause",
+      "somebody",
+      "physical_object",
+      "organism",
+      "pupil",
+      "entity",
+      "someone",
+      "unit",
+      "person",
+      "educatee",
+      "causal_agent",
+      "whole",
+      "being",
+      "student",
+      "individual",
+      "mortal"
+   ],
+   "duck" : [
+      "enrollee",
+      "To enter or register in a roll, list, or record: enrolled the child in kindergarten; enroll the minutes of the meeting.",
+      "http://www.merriam-webster.com/dictionary/enrollee",
+      "enrollee definition: to insert, register, or enter in a list, catalog, or roll.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "enrollee" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

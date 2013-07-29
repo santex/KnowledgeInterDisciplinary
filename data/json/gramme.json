@@ -1,0 +1,110 @@
+{
+   "micrownet" : [
+      "gramme"
+   ],
+   "google" : [
+      "/url?q=https://www.facebook.com/GRAMMEBAND&sa=U&ei=_RnoUaGpMcOQtAb24YHYBQ&ved=0CBgQFjAA&usg=AFQjCNESLYWYLkFyvIE85m7skR6t94js-g",
+      "/url?q=http://www.thefreedictionary.com/gramme&sa=U&ei=_RnoUaGpMcOQtAb24YHYBQ&ved=0CCAQFjAC&usg=AFQjCNFoBWL8WE1crk9g1xWZ4ipuXscYZA",
+      "/url?q=https://twitter.com/wearegramme&sa=U&ei=_RnoUaGpMcOQtAb24YHYBQ&ved=0CCkQFjAD&usg=AFQjCNHGW-Xucp8YURjbXVgtvHk0vQERGA",
+      "/url?q=http://en.wikipedia.org/wiki/Z%25C3%25A9nobe_Gramme&sa=U&ei=_RnoUaGpMcOQtAb24YHYBQ&ved=0CCwQFjAE&usg=AFQjCNE3-hK5fuHS5rwkendK0O577IBw1A"
+   ],
+   "micro" : [
+      "abstraction",
+      "gm",
+      "metric_weight_unit",
+      "weight_unit",
+      "abstract_entity",
+      "measure",
+      "entity",
+      "metric_unit",
+      "gramme",
+      "g",
+      "metric",
+      "mass_unit",
+      "gram",
+      "quantity",
+      "definite_quantity",
+      "unit",
+      "amount",
+      "unit_of_measurement"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/d/Gram\">Gram Meanings</a>",
+      "Gram",
+      "\n<a href=\"http://duckduckgo.com/c/SI_derived_units\">SI derived units</a>",
+      "\n<a href=\"http://duckduckgo.com/Orders_of_magnitude_(mass)\">Orders of magnitude (mass)</a>",
+      "http://www.merriam-webster.com/dictionary/gram",
+      "gram definition: any of several leguminous plants (as a chickpea) grown especially for their seed.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/b0224891.jpg",
+      "\n<a href=\"http://duckduckgo.com/Conversion_of_units\">Conversion of units</a> - Conversion of units is the conversion between different units of measurement for the same quantity, typically through multiplicative conversion factors.",
+      "\n<a href=\"http://duckduckgo.com/c/Units_of_mass\">Units of mass</a>",
+      "\n<a href=\"http://duckduckgo.com/Gold_gram\">Gold gram</a> - A gold gram is the amount of value represented by exactly one gram of gold.",
+      "\n<a href=\"http://duckduckgo.com/Duella\">Duella</a> - A duella was an ancient Roman unit of weight, equivalent to a third of a Roman ounce.",
+      "The gram (alternative British English spelling: gramme; SI unit symbol: g) (Greek/Latin root grámma) is a metric system unit of mass."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "gramme" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of mass",
+         "SI derived units",
+         "Centimetre–gram–second system of units"
+      ],
+      "text" : "\n{{Infobox unit |name = Gram |image = |caption = The mass of this pen cap is\nabout 1 gram |standard = SI derived unit |quantity = Mass |symbol = g |dimension\n= M |namedafter =\n| units1 = SI base units inunits1 = 10<sup>-3</sup> kilograms units2 = CGS units\n| inunits2 = 1 gram units3 = U.S. customary inunits3 = 0.0353 ounces\n}} The 'gram' (alternative British English spelling: 'gramme';<ref></ref> SI\nunit symbol: 'g') (Greek/Latin root grámma) is a metric system unit of mass.\n\nOriginally defined as \"the absolute weight of a volume of pure water equal to\nthe cube of the hundredth part of a metre, and at the temperature of melting ice\"<ref>[http://smdsi.quartier-\nrural.org/histoire/18germ_3.htm Décret relatif aux poids et aux mesures],\n1795</ref> (later 4&nbsp;°C), a gram is now defined as one one-thousandth of the\nSI base unit, the kilogram, or 1×10<sup>−3</sup> kg, which itself is defined as\nbeing equal to the mass of a physical prototype preserved by the International\nBureau of Weights and Measures.\n",
+      "title" : "Gram",
+      "headings" : [
+         "Symbol and abbreviations",
+         "History",
+         "Uses",
+         "Conversion factors",
+         "Comparisons",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: SI",
+      "2: Mass",
+      "2: Kilogram",
+      "2: Metric_system",
+      "1: SI_derived_unit",
+      "1: SI_base_unit",
+      "1: CGS_unit",
+      "1: United_States_customary_units",
+      "1: Ounce",
+      "1: British_English",
+      "1: Physical_unit",
+      "1: Water",
+      "1: Metre",
+      "1: Scientific_notation",
+      "1: International_Bureau_of_Weights_and_Measures",
+      "1: International_System_of_Units",
+      "1: Centimetre_gram_second_system_of_units",
+      "1: Late_Latin",
+      "1: Avoirdupois",
+      "1: Troy_ounce",
+      "1: Joule",
+      "1: Massâenergy_equivalence",
+      "1: 1_yen_coin",
+      "1: Coins_of_the_United_States_dollar",
+      "1: 1_cent_euro_coins",
+      "1: Conversion_of_units",
+      "1: Duella",
+      "1: Gold_gram"
+   ]
+}

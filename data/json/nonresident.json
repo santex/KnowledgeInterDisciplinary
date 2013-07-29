@@ -1,0 +1,59 @@
+{
+   "micrownet" : [
+      "nonresident",
+      "nonresident_(vs._resident)",
+      "nonresidential"
+   ],
+   "google" : [
+      "/url?q=http://www.irs.gov/Individuals/International-Taxpayers/Taxation-of-Nonresident-Aliens&sa=U&ei=IxnoUcGBCsHYtQb-0YCIBQ&ved=0CCAQFjAB&usg=AFQjCNGWsIlNZx2LvzIOw5snAocGNewf1g",
+      "/url?q=http://www.cra-arc.gc.ca/tx/nnrsdnts/ndvdls/nnrs-eng.html&sa=U&ei=IxnoUcGBCsHYtQb-0YCIBQ&ved=0CCkQFjAC&usg=AFQjCNELNGqDiEZEMDPRDYXKTKNjgoW61A",
+      "/url?q=http://www.hmrc.gov.uk/nonresidents/&sa=U&ei=IxnoUcGBCsHYtQb-0YCIBQ&ved=0CC4QFjAD&usg=AFQjCNGk7e9gBhGWcbAFul2aV3OjPEhjwQ",
+      "/url?q=http://www.investopedia.com/terms/r/nonresident.asp&sa=U&ei=IxnoUcGBCsHYtQb-0YCIBQ&ved=0CDIQFjAE&usg=AFQjCNH5hX6lDXjfxuoXB-Y0b0gkMWF4zA",
+      "/url?q=http://www.merriam-webster.com/dictionary/nonresident&sa=U&ei=IxnoUcGBCsHYtQb-0YCIBQ&ved=0CDYQFjAF&usg=AFQjCNFou9_BtGZHglBozBOv4GYIAG6Onw"
+   ],
+   "micro" : [
+      "causal_agency",
+      "physical_object",
+      "nonresident",
+      "mortal",
+      "cause",
+      "causal_agent",
+      "living_thing",
+      "entity",
+      "whole",
+      "soul",
+      "being",
+      "object",
+      "organism",
+      "individual",
+      "unit",
+      "person",
+      "physical_entity",
+      "someone",
+      "somebody",
+      "animate_thing"
+   ],
+   "duck" : [
+      "nonresident",
+      "Not living in a particular place: nonresident students who commute to classes.",
+      "http://www.merriam-webster.com/dictionary/nonresident",
+      "nonresident definition: not residing in a particular place.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "nonresident" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

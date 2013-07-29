@@ -1,0 +1,73 @@
+{
+   "micrownet" : [
+      "neutralization",
+      "neutralization_fire",
+      "neutralization_reaction"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Neutralization&sa=U&ei=YBnoUbfFDIXdtAaQ9oGAAw&ved=0CBgQFjAA&usg=AFQjCNEgbGbyWtCUgh1Ey2cdgUCcOUD8LA",
+      "/url?q=http://en.wikipedia.org/wiki/Neutralization_(chemistry)&sa=U&ei=YBnoUbfFDIXdtAaQ9oGAAw&ved=0CB8QFjAB&usg=AFQjCNHOkJ3gPmqHKFqtmLoN6pK_bDGAiw",
+      "/url?q=http://chemwiki.ucdavis.edu/Physical_Chemistry/Acids_and_Bases/Acid%252F%252FBase_Reactions/Neutralization&sa=U&ei=YBnoUbfFDIXdtAaQ9oGAAw&ved=0CCgQFjAC&usg=AFQjCNHv9DhfkLw5ueNK8mdjmVeVqDBQsg",
+      "/url?q=http://www.chem.memphis.edu/bridson/FundChem/T16a1100.htm&sa=U&ei=YBnoUbfFDIXdtAaQ9oGAAw&ved=0CCsQFjAD&usg=AFQjCNGovrqAGWdnOZk8k5ntPIZyedRv9Q",
+      "/url?q=http://www.elmhurst.edu/~chm/vchembook/183neutral.html&sa=U&ei=YBnoUbfFDIXdtAaQ9oGAAw&ved=0CC8QFjAE&usg=AFQjCNHjEtJTIklBF4s51ge1sxBJCbFtxg"
+   ],
+   "micro" : [
+      "change",
+      "action",
+      "event",
+      "nullification",
+      "neutralisation",
+      "abstraction",
+      "entity",
+      "change_of_state",
+      "neutralization",
+      "human_action",
+      "deed",
+      "human_activity",
+      "psychological_feature",
+      "override",
+      "abstract_entity",
+      "act"
+   ],
+   "duck" : [
+      "Neutralization",
+      "\n<a href=\"http://duckduckgo.com/Neutralization_(chemistry)\">Neutralization (chemistry)</a>, a chemical reaction where a base and an acid react to form a salt",
+      "http://www.merriam-webster.com/dictionary/neutralization",
+      "\n<a href=\"http://duckduckgo.com/Neutralization_(linguistics)\">Neutralization (linguistics)</a>, the elimination of certain distinctive features of phonemes in certain environments",
+      "\n<a href=\"http://duckduckgo.com/Neutralisation_(immunology)\">Neutralisation (immunology)</a>, pathogen neutralization caused by antibodies",
+      "neutralization definition: an act or process of neutralizing.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/techniques_of_neutralization\">Neutralisation (sociology)</a> - Techniques of neutralization are a theoretical series of methods by which those who commit illegitimate acts temporarily neutralize certain values within themselves which would normally prohibit...",
+      "\n<a href=\"http://duckduckgo.com/Neutralized_(album)\">Neutralized (album)</a>, a 2009 album by Ram-Zet",
+      "Neutralization is a chemical reaction in which an acid and a base interact with the formation of a salt to make a solution neutral."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Neutralization_(disambiguation)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Neutralization_(chemistry)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Neutralization_reaction_between_sodium_hydroxide_and_hydrochloric_acid.jpg/220px-Neutralization_reaction_between_sodium_hydroxide_and_hydrochloric_acid.jpg\n"
+   ],
+   "book" : [],
+   "micro-www" : {
+      "neutralization" : [
+         "Neutralization_(disambiguation)",
+         "Neutralization_(chemistry)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Neutralization' may refer to:\n\n* Neutralization (chemistry), a chemical reaction where a base and an acid react\n  to form a salt\n* Neutralisation (immunology), pathogen neutralization caused by antibodies\n* Neutralisation (sociology)\n* Neutralization (linguistics), the elimination of certain distinctive features\n  of phonemes in certain environments\n* Insertion of a network in an amplifier to eliminate parasitic oscillation\n* ''Neutralized'' (album), a 2009 album by Ram-Zet\n",
+      "title" : "neutralization",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Parasitic_oscillation"
+   ]
+}
